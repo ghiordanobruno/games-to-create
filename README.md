@@ -22,7 +22,7 @@ I want to gain real experience by finishing games, not just reading about them. 
 
 | # | Game | Focus | Status |
 |---|------|-------|--------|
-| 1 | Text-based adventure | Basic I/O, Code Structure, Branching Logic, Game State | 🟨 In Progress |
+| 1 | [Text-based adventure](https://github.com/ghiordanobruno/text-based-adventure) | Basic I/O, Code Structure, Branching Logic, Game State | 🟨 In Progress |
 | 2 | Tic-Tac-Toe | 2D Arrays, Turn Logic, Minimax Algorithm | ⬜ Not Started |
 
 ### Phase 2 - Real-Time 2D Basics
