@@ -16,14 +16,14 @@ I want to gain real experience by finishing games, not just reading about them. 
 - The `docs/game-readme-template.md` file is the template for every game README.
 
 
-## Progress: 0/33 completed
+## Progress: 1/33 completed
 
 ### Phase 1 - Programming Foundations
 
 | # | Game | Focus | Status |
 |---|------|-------|--------|
-| 1 | [Text-based adventure](https://github.com/ghiordanobruno/text-based-adventure) | Basic I/O, Code Structure, Branching Logic, Game State | 🟨 In Progress |
-| 2 | Tic-Tac-Toe | 2D Arrays, Turn Logic, Minimax Algorithm | ⬜ Not Started |
+| 1 | [Text-based adventure](https://github.com/ghiordanobruno/text-based-adventure) | Basic I/O, Code Structure, Branching Logic, Game State | ✅ Completed |
+| 2 | Tic-Tac-Toe | 2D Arrays, Turn Logic, Minimax Algorithm | 🟨 In Progress |
 
 ### Phase 2 - Real-Time 2D Basics
 
