@@ -1,3 +1,5 @@
+**🇺🇸 English** · [🇧🇷 Português (Brasil)](README-ptbr.md)
+
 # Games to Create to Become a Better Game Developer
 
 A hands-on roadmap: I am building a series of small-to-medium games, ordered by difficulty, to learn the skills a game developer needs. The path ends with my own game, released publicly.
@@ -13,7 +15,7 @@ I want to gain real experience by finishing games, not just reading about them. 
 - The full roadmap (focus, status, engine, language, notes) lives in the spreadsheet `Games to Create to Become a Better Game Developer.xlsx`.
 - Engine and language are chosen per game when I start it.
 - A game repository is created only when I start that game, so empty repositories do not pile up.
-- The `docs/game-readme-template.md` file is the template for every game README.
+- The `docs/game-readme-template.md` (English) and `docs/game-readme-template-ptbr.md` (Brazilian Portuguese) files are the templates for every game README. Every game repository has both `README.md` and `README-ptbr.md`, built from them.
 
 
 ## Progress: 1/33 completed
@@ -23,7 +25,7 @@ I want to gain real experience by finishing games, not just reading about them. 
 | # | Game | Focus | Status |
 |---|------|-------|--------|
 | 1 | [Text-based adventure](https://github.com/ghiordanobruno/text-based-adventure) | Basic I/O, Code Structure, Branching Logic, Game State | ✅ Completed |
-| 2 | Tic-Tac-Toe | 2D Arrays, Turn Logic, Minimax Algorithm | 🟨 In Progress |
+| 2 | [Tic-Tac-Toe](https://github.com/ghiordanobruno/tic-tac-toe) | 2D Arrays, Turn Logic, Minimax Algorithm | 🟨 In Progress |
 
 ### Phase 2 - Real-Time 2D Basics
 

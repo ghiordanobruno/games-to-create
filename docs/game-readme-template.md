@@ -1,3 +1,5 @@
+**🇺🇸 English** · [🇧🇷 Português (Brasil)](game-readme-template-ptbr.md)
+
 # <Game Name>
 
 > **Status:** Not Started | In Progress | Completed
